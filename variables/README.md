@@ -20,6 +20,6 @@
 
 <h5> Özetlemek gerekirse </h5>
 
-    <li> let - modern bir değişken birimidir. </li>
-    <li> var - eski usul bir değişken birimidir. Normal şartlarda hiç kullanılmaz ancak ihtiyaç duyulduğu takdirde kullanılmaktadır. </li>
-    <li> const - let gibi ancak değişken değeri değiştirilemez. </li>
+   <li> let - modern bir değişken birimidir. </li>
+   <li> var - eski usul bir değişken birimidir. Normal şartlarda hiç kullanılmaz ancak ihtiyaç duyulduğu takdirde kullanılmaktadır. </li>
+   <li> const - let gibi ancak değişken değeri değiştirilemez. </li>
