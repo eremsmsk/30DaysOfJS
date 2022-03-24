@@ -13,7 +13,7 @@
   </tr>
   <tr align="center">
      <td>1. Gün</td>
-    <td><a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/JS%20Giri%C5%9F">What is JS?</a>,
+    <td><a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/js-giris">What is JS?</a>,
       <a href="https://github.com/eremsmsk/30DaysOfJS">Variables</a>,
       <a href="https://github.com/eremsmsk/30DaysOfJS">Operators</a></td>
     <td>Tamamlanmadı</td>
