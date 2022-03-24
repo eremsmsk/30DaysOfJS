@@ -55,7 +55,7 @@
   <tr align="center">
      <td>8. Gün</td>
     <td><a href="https://github.com/eremsmsk/30DaysOfJS">Form validation</a>,
-      <a href="https://github.com/eremsmsk/30DaysOfJS">Cinema-ticket reservation application</a>,
+      <a href="https://github.com/eremsmsk/30DaysOfJS">Cinema-ticket reservation application</a>
     <td>Tamamlanmadı</td>
   </tr>
   <tr align="center">
