@@ -20,7 +20,7 @@
   </tr>
   <tr align="center">
      <td>2. Gün</td>
-    <td><a href="https://github.com/eremsmsk/30DaysOfJS">Data structures</a>,
+    <td><a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/data-structures">Data structures</a>,
       <a href="https://github.com/eremsmsk/30DaysOfJS">Arrays</a></td>
     <td>Tamamlanmadı</td>
   </tr>
