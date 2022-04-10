@@ -1,6 +1,6 @@
 /* 
     Veri Tipleri:
-    1- Primitive veri tipleri
+    1- Primitive veri tipleri (Sayısal değerler tutan değişkenler ilkel veri tipleridir.)
     - String
     - Number
     - Boolean
