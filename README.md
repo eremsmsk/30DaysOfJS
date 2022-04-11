@@ -21,7 +21,8 @@
   <tr align="center">
      <td>2. Gün</td>
     <td><a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/data-structures">Data structures</a>,
-      <a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/arrays">Arrays</a></td>
+      <a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/arrays">Arrays</a>,
+      <a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/array-methods">Array Methods</a></td>
     <td><del> Tamamlandı </del></td>
   </tr>
   <tr align="center">
