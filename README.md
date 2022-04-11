@@ -12,7 +12,7 @@
     <th>Durum</th>
   </tr>
   <tr align="center">
-     <td>1. Gün / 24 Mart </td>
+     <td>1. Gün</td>
     <td><a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/what-is-js">What is JS?</a>,
       <a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/variables">Variables</a>,
       <a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/operators">Operators</a></td>
@@ -21,8 +21,8 @@
   <tr align="center">
      <td>2. Gün</td>
     <td><a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/data-structures">Data structures</a>,
-      <a href="https://github.com/eremsmsk/30DaysOfJS">Arrays</a></td>
-    <td>Tamamlanmadı</td>
+      <a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/arrays">Arrays</a></td>
+    <td><del> Tamamlandı </del></td>
   </tr>
   <tr align="center">
      <td>3. Gün</td>
