@@ -49,6 +49,11 @@ console.log(array); // ["E", "Ş", "F"]
 array = ["Erem", "Şimşek", "Frontend Developer"].map(item => item.charAt(0).toUpperCase() + item.slice(1));
 console.log(array); // ["Erem", "Şimşek", "Frontend Developer"]
 
+// map örneği;
+let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let newArr = arr.map(item => item * 2);
+console.log(newArr); // [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+
 // reverse -> dizi içerisindeki elemanların tersten sıralanmasını sağlar.
 
 array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
