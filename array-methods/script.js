@@ -35,9 +35,25 @@ let result = array.find(function(element){
 });
 console.log(result); // 6
 
-// filter -> find ile benzer fakat filtre eşleşen tüm elemanları döndürür.
+/* 
+    filter -> Methodu, orijinal dizinin öğelerinin bir alt kümesini içeren yeni bir dizi oluşturur.
+    filter(function(element, index, array))
+    element -> Gereklidir mevcut elemanın değeri
+    index -> İsteğe bağlı dizide işlenen geçerli öğenin indeksi
+    array -> İsteğe bağlı geçerli elemanın ait olduğu dizi nesnesi 
+*/
 
-// map -> dizinin her elemanı için bir fonksiyonu çalıştırır. ve yeni bir dizi oluşturur.
+// filter örneği;
+let array3 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let result2 = array3.filter(function(element){
+    return element > 5;
+});
+console.log(result2); // [6, 7, 8, 9, 10]
+
+/* 
+    map -> Methodu, her bir dizi elemanı için bir fonksiyon çağrısının sonuçlarına sahip yeni bir dizi oluşturur. 
+        -> dizinin her elemanı için bir fonksiyonu çalıştırır. ve yeni bir dizi oluşturur.
+*/
 array = ["Erem", "Şimşek", "Frontend Developer"].map(item => item.length);
 console.log(array); // [4, 6, 18]
 array = ["Erem", "Şimşek", "Frontend Developer"].map(item => item.toUpperCase());
@@ -49,10 +65,24 @@ console.log(array); // ["E", "Ş", "F"]
 array = ["Erem", "Şimşek", "Frontend Developer"].map(item => item.charAt(0).toUpperCase() + item.slice(1));
 console.log(array); // ["Erem", "Şimşek", "Frontend Developer"]
 
-// map örneği;
+
+// map sayısal örneği;
 let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 let newArr = arr.map(item => item * 2);
 console.log(newArr); // [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+
+/* 
+    reduce -> dizi içerisindeki elemanların toplamını bulur.
+
+    -> Methodu genellikle matematik ifadeleri ve denklemler gibi şeyler gerçekleştirmek için kullanılır.
+    örneğin bir sayı dizisinin toplamını hesaplamak için kullanılır.
+ */
+// reduce örneği;
+let arr2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let newArr2 = arr2.reduce((total, item) => total + item);
+console.log(newArr2); // 55
+
+// 
 
 // reverse -> dizi içerisindeki elemanların tersten sıralanmasını sağlar.
 
