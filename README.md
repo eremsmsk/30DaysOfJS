@@ -27,7 +27,7 @@
   </tr>
   <tr align="center">
      <td>3. Gün</td>
-    <td><a href="https://github.com/eremsmsk/30DaysOfJS">Condition statements</a>,
+    <td><a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/condition-statements">Condition statements</a>,
       <a href="https://github.com/eremsmsk/30DaysOfJS">Loops</a>,
       <a href="https://github.com/eremsmsk/30DaysOfJS">Functions</a></td>
     <td>Tamamlanmadı</td>
