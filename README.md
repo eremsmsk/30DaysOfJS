@@ -28,9 +28,10 @@
   <tr align="center">
      <td>3. Gün</td>
     <td><a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/condition-statements">Condition statements</a>,
-      <a href="https://github.com/eremsmsk/30DaysOfJS">Loops</a>,
-      <a href="https://github.com/eremsmsk/30DaysOfJS">Functions</a></td>
-    <td>Tamamlanmadı</td>
+      <a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/loops">Loops</a>,
+      <a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/functions">Functions</a>,
+      <a href="https://github.com/eremsmsk/30DaysOfJS/tree/main/function-expressions">Function Expressions</a></td>
+    <td><del> Tamamlandı </del></td>
   </tr>
   <tr align="center">
      <td>4. Gün</td>
